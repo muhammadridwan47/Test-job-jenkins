@@ -1,1 +1,1 @@
-sh node index.js
+node index.js
